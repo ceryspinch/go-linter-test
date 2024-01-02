@@ -1,9 +1,9 @@
 package linter
 
 import (
-	"github.com/ceryspinch/go-linter"
+	mycustomlinter "github.com/ceryspinch/go-linter/linter"
 )
 
 func RunCustomLinter() {
-	golinter.
+	mycustomlinter.RunLinter()
 }
