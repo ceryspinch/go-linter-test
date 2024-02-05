@@ -1,9 +1,9 @@
 package main
 
 import (
-	linter "github.com/ceryspinch/go-linter"
+	"github.com/ceryspinch/golinter"
 )
 
 func main(){
-	linter.RunLinter()
+	golinter.RunLinter()
 }

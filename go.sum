@@ -1,2 +1,10 @@
-github.com/ceryspinch/go-linter v0.0.0-20240102212703-6cec8a584715 h1:hbY2WTKg754bra3v3KXdb3v3D69JDQukqr5+kDFIOCo=
-github.com/ceryspinch/go-linter v0.0.0-20240102212703-6cec8a584715/go.mod h1:dUZTAIgmTsiRvgM+pLhSpOYZvVhSf6sFWD0M4FRj3oc=
+github.com/ceryspinch/golinter v0.0.0-20240102220800-d1511d97ef1f h1:L638chv8S5SvPT37aoIENdp8faYs/9SPuOdHDiOGMuQ=
+github.com/ceryspinch/golinter v0.0.0-20240102220800-d1511d97ef1f/go.mod h1:xvID+RMKBAHJ4IUKWYcHEMKjhdaqIvOBaqjSGoNM59I=
+golang.org/x/mod v0.12.0 h1:rmsUpXtvNzj340zd98LZ4KntptpfRHwpFOHG188oHXc=
+golang.org/x/mod v0.12.0/go.mod h1:iBbtSCu2XBx23ZKBPSOrRkjjQPZFPuis4dIYUhu/chs=
+golang.org/x/sync v0.3.0 h1:ftCYgMx6zT/asHUrPw8BLLscYtGznsLAnjq5RH9P66E=
+golang.org/x/sync v0.3.0/go.mod h1:FU7BRWz2tNW+3quACPkgCx/L+uEAv1htQ0V83Z9Rj+Y=
+golang.org/x/sys v0.12.0 h1:CM0HF96J0hcLAwsHPJZjfdNzs0gftsLfgKt57wWHJ0o=
+golang.org/x/sys v0.12.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/tools v0.13.0 h1:Iey4qkscZuv0VvIt8E0neZjtPVQFSc870HQ448QgEmQ=
+golang.org/x/tools v0.13.0/go.mod h1:HvlwmtVNQAhOuCjW7xxvovg8wbNq7LwfXh/k7wXUl58=
