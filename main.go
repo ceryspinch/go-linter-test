@@ -4,6 +4,6 @@ import (
 	"github.com/ceryspinch/golinter"
 )
 
-func main(){
+func main() {
 	golinter.RunLinter()
 }
