@@ -1,7 +1,9 @@
 package main
 
-// "github.com/ceryspinch/golinter"
+import (
+	"github.com/ceryspinch/golinter"
+)
 
 func main() {
-	// golinter.RunLinter()
+	golinter.RunLinter()
 }
