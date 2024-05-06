@@ -2,7 +2,7 @@ module go-linter-test
 
 go 1.21.4
 
-require github.com/ceryspinch/golinter v0.0.0-20240416101424-1eab20409ca2
+require github.com/ceryspinch/golinter v0.0.0-20240506090902-8a4d51b21679
 
 require (
 	github.com/fatih/color v1.16.0 // indirect

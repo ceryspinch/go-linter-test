@@ -59,3 +59,12 @@ func checkY() bool {
 func foo(a, b, c, d, e, f, g int) int {
 	return a + b + c + d + e + f + g
 }
+
+func pretty_bad_function() bool {
+	MY_VARIABLE := 0
+	
+	if MY_VARIABLE == 1 || MY_VARIABLE == 2 || MY_VARIABLE == 3 || MY_VARIABLE == 4 {
+		return true
+	}
+	return false
+}

@@ -1,5 +1,5 @@
-github.com/ceryspinch/golinter v0.0.0-20240416101424-1eab20409ca2 h1:evJ8tqEv9ibTJD/eMHGHpVIqX1htBkp7uKyAlBeuko8=
-github.com/ceryspinch/golinter v0.0.0-20240416101424-1eab20409ca2/go.mod h1:Qnox1vRqJ1tgH1yCD8lgR51G8Dr2rnh+yEKY4qMv9Sk=
+github.com/ceryspinch/golinter v0.0.0-20240506090902-8a4d51b21679 h1:kQa3C4aH1F2WbKhbsZvI86IyieiPoyFQnIsuUy/d/HI=
+github.com/ceryspinch/golinter v0.0.0-20240506090902-8a4d51b21679/go.mod h1:Qnox1vRqJ1tgH1yCD8lgR51G8Dr2rnh+yEKY4qMv9Sk=
 github.com/fatih/color v1.16.0 h1:zmkK9Ngbjj+K0yRhTVONQh1p/HknKYSlNT+vZCzyokM=
 github.com/fatih/color v1.16.0/go.mod h1:fL2Sau1YI5c0pdGEVCbKQbLXB6edEj1ZgiY4NijnWvE=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
